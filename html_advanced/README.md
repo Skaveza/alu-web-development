@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>HTML Advanced</title>
-</head>
 <body>
      <h1>HTML Advanced</h1>
      <h2>Description</h2>
@@ -10,5 +7,3 @@
      <img src="main_part.png" alt="Homepage">
 </body>
 </html>
-
-
